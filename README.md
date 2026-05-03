@@ -94,6 +94,7 @@ Full report available
 Python
 Pandas
 NumPy
+Matplotlib
 Scikit-learn
 
 👤 Author
