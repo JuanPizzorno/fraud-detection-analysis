@@ -1,7 +1,21 @@
+# Fraud Detection Analysis
+
+This project simulates a fraud detection system in transactional data.
+
+## Goals:
+- Identify fraud patterns
+- Build predictive features
+- Evaluate business impact
+
+## 🚀 Key Results
+
+- Fraud detection rate: ~96%
+- False positives: 0 (simulated scenario)
+- Clear separation between fraudulent and legitimate transaction
+
 📌 Overview
 
 This project simulates a fraud detection scenario in transactional data, with the goal of identifying risk patterns and evaluating detection strategies.
-
 The dataset was synthetically generated to replicate common fraud behaviors, allowing for controlled experimentation and analysis.
 
 🎯 Objectives
