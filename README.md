@@ -13,6 +13,16 @@ This project simulates a fraud detection system in transactional data.
 - False positives: 0 (simulated scenario)
 - Clear separation between fraudulent and legitimate transaction
 
+## 💼 Business Impact
+
+This project demonstrates how a scoring system can be used to:
+
+- Reduce fraud-related losses
+- Prioritize high-risk transactions
+- Balance detection vs user experience
+
+  
+
 📌 Overview
 
 This project simulates a fraud detection scenario in transactional data, with the goal of identifying risk patterns and evaluating detection strategies.
