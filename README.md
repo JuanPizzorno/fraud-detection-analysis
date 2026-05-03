@@ -10,6 +10,7 @@ Quantify fraud impact
 Build features to improve detection
 Train a simple classification model
 Evaluate business impact through decision thresholds
+
 🧱 Dataset
 50,000 transactions
 1,000 users
@@ -19,22 +20,21 @@ Simulated fraud types:
 High transaction amounts
 Country mismatch
 New accounts with high spending
+
 🔍 Analysis
-
 Exploratory analysis shows that fraudulent transactions tend to:
-
 Have higher amounts
 Be associated with newer accounts
 Occur in inconsistent locations
+
 🧠 Feature Engineering
 
 Key features:
-
 Transaction amount vs user average (ratio_monto)
 New account flag
 Country mismatch
-🤖 Modeling
 
+🤖 Modeling
 A Logistic Regression model was trained using engineered features.
 
 Results:
@@ -64,13 +64,13 @@ Run A/B testing on thresholds
 
 📄 Documentation
 
-Full report available in /docs
+Full report available
 
 🛠️ Tech Stack
 Python
 Pandas
 NumPy
 Scikit-learn
-👤 Author
 
+👤 Author
 Juan Manuel Pizzorno
